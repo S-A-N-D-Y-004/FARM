@@ -1,0 +1,5 @@
+[18-Jul-2025 19:38:31 UTC] PHP Warning:  Undefined variable $authorization in /home/ebuylocal/public_html/user1.ebuylocal.in/ton.php on line 19
+[18-Jul-2025 19:38:31 UTC] PHP Warning:  Undefined variable $translation in /home/ebuylocal/public_html/user1.ebuylocal.in/ton.php on line 80
+[18-Jul-2025 19:38:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ebuylocal/public_html/user1.ebuylocal.in/ton.php on line 81
+[18-Jul-2025 19:38:31 UTC] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/Den1xxx/Filemanager/master/languages/en.json): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ebuylocal/public_html/user1.ebuylocal.in/ton.php on line 82
